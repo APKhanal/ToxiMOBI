@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "ToxiMobile",
+    "slug": "ToxiMobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./ToxiGuard/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./ToxiGuard/assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.ToxiMobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./ToxiGuard/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff",
+        "targetApiLevel": 34
+      },
+      "package": "com.anonymous.ToxiMobile"
+    },
+    "web": {
+      "favicon": "./ToxiGuard/assets/favicon.png"
+    }
+  }
+}

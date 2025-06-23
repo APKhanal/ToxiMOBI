@@ -1,0 +1,10 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:7E416212-E966-47E3-B74E-72B6FEFC48C5, OS:18.2, name:iPhone 16 Pro }
+{ platform:iOS Simulator, id:7E416212-E966-47E3-B74E-72B6FEFC48C5, OS:18.2, name:iPhone 16 Pro }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	PhaseScriptExecution [CP-User]\ Generate\ updates\ resources\ for\ expo-updates /Users/apurwakhanal/Library/Developer/Xcode/DerivedData/ToxiMobile-cotlvciwzrexymapulhtgvdeygla/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/EXUpdates.build/Script-46EB2E00027990.sh (in target 'EXUpdates' from project 'Pods')
+	Building workspace ToxiMobile with scheme ToxiMobile and configuration Debug
+(2 failures)
